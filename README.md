@@ -1,15 +1,16 @@
 # CodeAlpha-Task-3
-Name: Priyanshi Bansal
+**Name: Priyanshi Bansal**
 Company:CodeAlpha 
 Student ID: CA/JU1/14308 
 Duration: 10 June 2025 to 10 July 2025
 Domain : Python Programmig
 Overview of the project
-Project:  Basic Chatbot 
+**Project:  Basic Chatbot**
+![image alt](https://github.com/Priyanshi19-ba/CodeAlpha-Task-3/blob/edbd480754bca09fad7976de1ae051b007728714/Screenshot%202025-07-06%20182308.png)
 
 Objective:The objective of this project is to create a simple rule-based chatbot that interacts with users through basic text input and output. The chatbot responds to specific user messages (like "hello", "how are you", "bye") with predefined replies, using conditional statements and functions. This project helps in practicing fundamental programming concepts such as if-elif statements, functions, loops, and handling user input/output in Python.
 
-Key Activities:
+**Key Activities:**
 1.Rule-Based Responses:
 The chatbot uses a simple rule-based approach, where specific user inputs trigger predefined responses. This demonstrates how basic conversational bots operate without AI or machine learning.
 2.Input Normalization:
@@ -23,7 +24,7 @@ If the user enters something the bot doesn’t recognize, it responds with a def
 6.Simple and User-Friendly:
 The interface is straightforward, making it easy for beginners to understand how chatbots work and how user input can be processed and responded to in real time.
 
-Technologies Used:
+**Technologies Used:**
 1.Python Programming Language:
 The entire chatbot is written in Python, a beginner-friendly and versatile language commonly used for scripting and automation.
 2.Python Standard Library:
@@ -38,7 +39,7 @@ This chatbot does not use any external packages like ChatterBot or machine learn
 4.Console-Based Interaction:
 All communication happens via the command line, making it simple and accessible for beginners.
 
-Key Insights:
+**Key Insights:**
 1.Rule-Based Logic:
 The chatbot uses simple rule-based logic with if-elif-else statements to match user input to predefined responses. This is the foundation of most basic chatbots, where each possible input is mapped to a specific reply.
 2.Continuous Conversation:
